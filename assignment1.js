@@ -7,7 +7,7 @@
 *  Name: Ahmadou Sy Student ID: 138005236 Date: 01/20/2024
 *
 ********************************************************************************/ 
-console.log("Hello World")
+//console.log("Hello World")
 const serverVerbs = ["GET", "GET", "GET", "POST", "GET", "POST"]
 const serverPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout"]
 const serverResponses = ["Welcome to WEB700 Assignment 1", "This assignment was prepared by Ahmadou Sy", 
